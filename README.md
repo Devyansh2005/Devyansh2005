@@ -40,17 +40,9 @@ I am a Software Engineering student at **SRM University** focused on developing 
 
 ---
 
-### 📊 Performance Analytics
+### 📊 Technical Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devyansh2005&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyansh2005&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devyansh2005&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://metrics.lecoq.io/Devyansh2005?base=header,activity,community,repositories,metadata&base.indepth=true&config.timezone=Asia/Kolkata" alt="Devyansh's Metrics" width="100%" />
 </p>
 
 ---
