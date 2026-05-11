@@ -1,70 +1,52 @@
-# Devyansh Chhabra
-**Software Engineering Student | Robotics & Systems Architecture**
+# <p align="center">🏎️ Devyansh Chhabra</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Devyansh%20Chhabra&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00B4D8&height=250&section=header&text=Software%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
----
-
-### 📑 Professional Overview
-I am a Software Engineering student at **SRM University** focused on developing high-performance, scalable systems. My expertise lies in **Robotics Simulations**, **Computer Vision**, and **Enterprise Software Development**.
-
-- 🤖 **Specialization:** Robotics Control Systems & Multi-Agent Simulations
-- 👁️ **Core Interest:** Real-time Object Detection and Vision Intelligence
-- ☕ **Infrastructure:** Enterprise Java Systems & Relational Databases
-- 💻 **Tech Stack:** Proficient in Java, TypeScript, Node.js, and Full-Stack Engineering
-
----
-
-### 🛠️ Technical Arsenal
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=8" />
+  <a href="https://github.com/Devyansh2005">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Robotics+Enthusiast;Problem+Solver;Systems+Architect" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 📂 Key Engineering Projects
+### 🚀 About Me
+I am a passionate **Software Engineering student** at **SRM University** focused on building high-performance digital solutions. My work bridges the gap between complex backend logic and sleek, intuitive user interfaces.
 
-#### [Robotics & Systems]
-*   **[Robotics Control](https://github.com/Devyansh2005/Robotics-Project)** – Advanced simulation and motion planning for robotic platforms.
-*   **[Vacuum Gripper System](https://github.com/Devyansh2005/Vaccum-Gripper)** – Dynamic manipulation logic for industrial-scale robotics.
+- 🤖 **Specialization:** Robotics Control Systems & Systems Simulation
+- 👁️ **Interest:** Computer Vision & AI-driven Analytics
+- 🛠️ **Infrastructure:** Enterprise Java Systems & Database Architecture
+- 📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/devyansh-chhabra)
 
-#### [AI & Computer Vision]
-*   **[Road Monitoring Intelligence](https://github.com/Devyansh2005/Object-Detection-On-Road)** – Implementing vision models for real-time situational awareness.
+---
 
-#### [Enterprise Solutions]
-*   **[Hospital Management Suite](https://github.com/Devyansh2005/Hospital-Management)** – Scalable Java backend for clinical resource management.
+### 🛠️ Tech Stack & Arsenal
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman,py,fastapi,docker&perline=9" />
+  </a>
+</p>
 
 ---
 
 ### 📊 Performance Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devyansh2005&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyansh2005&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devyansh2005&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devyansh2005&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
 
-### 📫 Connect & Collaborate
-<p align="center">
-  <a href="https://linkedin.com/in/devyansh-chhabra">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:devyansh.chhabra@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🌟 Featured Engineering Works
+| Project | Narrative | Stack |
+| :--- | :--- | :--- |
+| **[Robotics Control](https://github.com/Devyansh2005/Robotics-Project)** | Advanced motion planning and simulation for robotic platforms. | JavaScript |
+| **[Object Detection](https://github.com/Devyansh2005/Object-Detection-On-Road)** | Implementing vision models for real-time situational awareness. | JavaScript |
+| **[Hospital Management](https://github.com/Devyansh2005/Hospital-Management)** | Scalable Java backend for clinical resource management. | Java/MySQL |
 
-<p align="right">
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Devyansh2005&color=00B4D8&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
