@@ -42,15 +42,15 @@ I am a Software Engineering student at **SRM University** focused on developing 
 
 ### 📊 Performance Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devyansh2005&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Devyansh's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devyansh2005&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyansh2005&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyansh2005&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devyansh2005&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devyansh2005&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
