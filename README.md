@@ -1,19 +1,13 @@
-# <p align="center">🏎️ Devyansh Chhabra</p>
+# <p align="center">Devyansh Chhabra</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00B4D8&height=250&section=header&text=Software%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Devyansh2005">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Robotics+Enthusiast;Problem+Solver;Systems+Architect" alt="Typing SVG" />
-  </a>
+  <strong>Software Engineering Student | Robotics & Systems Architecture</strong>
 </p>
 
 ---
 
-### 🚀 About Me
-I am a passionate **Software Engineering student** at **SRM University** focused on building high-performance digital solutions. My work bridges the gap between complex backend logic and sleek, intuitive user interfaces.
+### 🚀 Professional Overview
+I am a Software Engineering student at **SRM University** focused on building high-performance digital solutions. My work bridges the gap between complex backend logic and scalable system architectures.
 
 - 🤖 **Specialization:** Robotics Control Systems & Systems Simulation
 - 👁️ **Interest:** Computer Vision & AI-driven Analytics
@@ -22,11 +16,15 @@ I am a passionate **Software Engineering student** at **SRM University** focused
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Technical Arsenal
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman,py,fastapi,docker&perline=9" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ---
