@@ -1,7 +1,7 @@
 # <p align="center">Devyansh Chhabra</p>
 
 <p align="center">
-  <strong>Software Engineering Student | Robotics & Systems Architecture</strong>
+  <strong>Software Engineering Student | Full Stack Developer</strong>
 </p>
 
 ---
